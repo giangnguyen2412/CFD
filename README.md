@@ -1,5 +1,5 @@
 # CFD
-Code for "Explaining How Deep Neural Networks Forget by Deep Visualization"
+Code for "Explaining How Deep Neural Networks Forget by Deep Visualization" or "Dissecting Catastrophic Forgetting in Continual Learning by Deep Visualization"
 
 ## How if the output of CFD is layer 1?
 - We are observing the IoU drop, then the result of CFD is greater than 1.
