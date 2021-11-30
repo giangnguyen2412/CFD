@@ -1,3 +1,17 @@
+# Citation
+If you find our work useful in your research, please consider citing:
+
+```
+@inproceedings{nguyen2021explaining,
+  title={Explaining how deep neural networks forget by deep visualization},
+  author={Nguyen, Giang and Chen, Shuan and Jun, Tae Joon and Kim, Daeyoung},
+  booktitle={International Conference on Pattern Recognition},
+  pages={162--173},
+  year={2021},
+  organization={Springer}
+}
+```
+
 # CFD
 Code for "Explaining How Deep Neural Networks Forget by Deep Visualization" or "Dissecting Catastrophic Forgetting in Continual Learning by Deep Visualization"
 
